@@ -1,0 +1,9 @@
+[submodule "SupplyWiseDocs"]
+	path = SupplyWiseDocs
+	url = https://github.com/SupplyWise/SupplyWiseDocs
+[submodule "SupplyWiseAPI"]
+	path = SupplyWiseAPI
+	url = https://github.com/SupplyWise/SupplyWiseAPI
+[submodule "SupplyWiseUI"]
+	path = SupplyWiseUI
+	url = https://github.com/SupplyWise/SupplyWiseUI
